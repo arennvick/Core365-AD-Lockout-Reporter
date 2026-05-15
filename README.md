@@ -1,0 +1,1 @@
+# Core365-AD-Lockout-Reporter
